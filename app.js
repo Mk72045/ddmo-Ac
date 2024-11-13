@@ -1,3 +1,2 @@
 const other = require("./other.js");
-console.log(other);
-console.log("wlcome");
+console.log(other.sum(5, 6));

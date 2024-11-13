@@ -1,2 +1,2 @@
-const other = require("./other.js");
-console.log(other.sum(5, 6));
+import { applef } from "./js/index.js";
+console.log(applef());

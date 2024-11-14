@@ -1,0 +1,14 @@
+{
+  "name": "ddmo",
+  "version": "1.0.0",
+  "description": "Express Practic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoj Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

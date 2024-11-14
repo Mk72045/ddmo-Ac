@@ -1,0 +1,15 @@
+{
+  "name": "mpro",
+  "version": "1.0.0",
+  "description": "My first json project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoj",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.8.0",
+    "give-me-a-joke": "^0.5.1"
+  }
+}
